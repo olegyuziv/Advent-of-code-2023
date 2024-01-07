@@ -1,3 +1,6 @@
+
+# --- Day 1: Trebuchet?! ---
+
 # Dictionary mapping word representations of numbers to their numeric values
 num_words_to_digits = {
     'one': 1, 'two': 2, 'three': 3, 'four': 4,
