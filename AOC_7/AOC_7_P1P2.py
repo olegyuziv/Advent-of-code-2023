@@ -1,3 +1,6 @@
+
+# --- Day 7: Camel Cards ---
+
 def eval_hand(line, face):
     """
   Evaluates a hand of cards and its bid based on the given line and face values.
